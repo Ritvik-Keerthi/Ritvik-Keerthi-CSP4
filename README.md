@@ -1,8 +1,6 @@
 ﻿# Ritvik-Keerthi-CSP4
 
-[Replit - Menu/Sub Menu](https://replit.com/@RitvikKeerthi/MenuSubMenu#main.py)
-
-TPT Notes (5.1 - 5.6)
+### TPT Notes (5.1 - 5.6)
 --------------------
 
 [5.1 Beneficial and Harmful Effects](https://drive.google.com/file/d/1RXc68oLrmCTquHnKL4IQV9qIqkvJQb4L/view?usp=sharing)
@@ -43,7 +41,7 @@ TPT Notes (5.1 - 5.6)
 
 
 ---------------
-Github Actions TPT
+### Github Actions TPT
 -----------------
 5.1:
 Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
@@ -105,7 +103,7 @@ Must Include:
 ------------------------------------------------
 ### Create Task Project
 
-[Replit](https://replit.com/@RitvikKeerthi/Replit-Create-Task#index.html)
+[Replit Link to Create Task Project](https://replit.com/@RitvikKeerthi/Replit-Create-Task#index.html)
 -----------
 Ideas
 -----------
@@ -150,6 +148,9 @@ The output comes in the form of the score, as based on the user input this outpu
 --------------------------
 ### Data Structures Project
 
+
+[Replit - Menu/Sub Menu](https://replit.com/@RitvikKeerthi/MenuSubMenu#main.py)
+
 Must Include
 - Something that can help out people, specifically education in Tech
 - A fun interactive way to help out people in Tech
@@ -158,7 +159,7 @@ Final Idea: Site that gives Coding questions, with rewards and surprises for eac
 
 Our project is dedicated to the learning, improvement, and utmost enjoyment of coding! We aspire to help beginners improve their coding ability by implementing a series of levels that increase difficulty as they complete the tasks. By the end, they should see themselves as better programmers than before while also having enjoyed the journey. We are Team Siuuuu and are sponsored by Hackclub, a group of coders hoping to teach beginner coders.
 
-### [Replit](https://replit.com/@RitvikKeerthi/Data-Structures-Project#index.html)
+### [Replit Link to Data Structures Project](https://replit.com/@RitvikKeerthi/Data-Structures-Project#index.html)
 
 ### [Code for Level 1](https://github.com/KoolKidKai/Siuuuu/blob/main/templates/level1.html)
 
