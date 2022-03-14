@@ -115,6 +115,7 @@ Must Include:
 - Instructions for output
 
 ------------------------------------------------
+### Create Task Project
 
 [Replit](https://replit.com/@RitvikKeerthi/Replit-Create-Task#index.html)
 -----------
@@ -159,6 +160,8 @@ The output comes in the form of the score, as based on the user input this outpu
 ![image](https://user-images.githubusercontent.com/89219486/157565121-b2a7db8e-c8de-4b5f-84ba-6d1228a22a61.png)
 
 --------------------------
+### Data Structures Project
+
 Must Include
 - Something that can help out people, specifically education in Tech
 - A fun interactive way to help out people in Tech
