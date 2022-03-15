@@ -1,4 +1,6 @@
-﻿# Ritvik-Keerthi-CSP4
+{% include navigation.html %}
+
+# Ritvik-Keerthi-CSP4
 [Team Siuuuuu Github Page Website](https://koolkidkai.github.io/Siuuuu/)
 
 
