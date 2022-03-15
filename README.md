@@ -3,6 +3,9 @@
 # Ritvik-Keerthi-CSP4
 [Team Siuuuuu Github Page Website](https://koolkidkai.github.io/Siuuuu/)
 
+# Review Tickets
+[Week 0 Review Ticket](https://github.com/Ritvik-Keerthi/Ritvik-Keerthi-CSP4/issues/1)
+
 
 Capture the Moment
 
