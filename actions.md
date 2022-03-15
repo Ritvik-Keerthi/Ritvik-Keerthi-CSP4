@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ### Github Actions TPT
 -----------------
 5.1:
