@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 ### TPT Notes (5.1 - 5.6)
 --------------------
 
