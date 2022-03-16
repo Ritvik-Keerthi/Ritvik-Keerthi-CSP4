@@ -23,8 +23,9 @@ Does the owner of the computer think this was intentional? If yes or no, justify
 5.4 Github Pages and Actions: 
 
 CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment? What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
-- A crowdsource idea I coulse use in CompSci with 150 principles students would be trying to get everyone to like the sport of basketball. I might initiate it in our environment by presenting all positive things, especially revenue and entertaning dunks, and other highlights that are appealing to people. In terms of Del Norte crowdsourcing, it might be a little bit harder. Because there are specific biases all around Del Norte, it would be a lot more difficult to convince people that basketball is a great sport. Our final project could easily be better with crowdsourcing, as more people would support our project, therefore gaining more traction and being more popular. 
----------------------------------------------------------------------------------------------------------------------------------
+- A crowdsource idea I coulse use in CompSci with 150 principles students would be trying to get everyone to like the sport of basketball. I might initiate it in our environment by presenting all positive things, especially revenue and entertaning dunks, and other highlights that are appealing to people. In terms of Del Norte crowdsourcing, it might be a little bit harder. Because there are specific biases all around Del Norte, it would be a lot more difficult to convince people that basketball is a great sport. Our final project could easily be better with crowdsourcing, as more people would support our project, therefore gaining more traction and being more popular.
+
+
 [5.5 Legal and Ethical Concerns](https://drive.google.com/file/d/1-ezX6JN6ACtUE4fXxvd2TnkaVcoFzD65/view?usp=sharing)
 - In terms of legal and ethical concerns, there can be copyrights and protection of intellectual property. 
 - To go deeper into copyrights (legal copyrighting):
