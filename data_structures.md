@@ -1,9 +1,9 @@
 {% include navigation.html %}
 
 ### Data Structures Project
+Menu/SubMenu below
 
-
-[Replit - Menu/Sub Menu](https://replit.com/@RitvikKeerthi/MenuSubMenu#main.py)
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@RitvikKeerthi/MenuSubMenu?embed=true"></iframe>
 
 Must Include
 - Something that can help out people, specifically education in Tech
@@ -13,7 +13,8 @@ Final Idea: Site that gives Coding questions, with rewards and surprises for eac
 
 Our project is dedicated to the learning, improvement, and utmost enjoyment of coding! We aspire to help beginners improve their coding ability by implementing a series of levels that increase difficulty as they complete the tasks. By the end, they should see themselves as better programmers than before while also having enjoyed the journey. We are Team Siuuuu and are sponsored by Hackclub, a group of coders hoping to teach beginner coders.
 
-### [Replit Link to Data Structures Project](https://replit.com/@RitvikKeerthi/Data-Structures-Project#index.html)
+### Replit Link to Data Structures Project
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@RitvikKeerthi/Data-Structures-Project?embed=true"></iframe>
 
 ### [Code for Level 1](https://github.com/KoolKidKai/Siuuuu/blob/main/templates/level1.html)
 
