@@ -18,11 +18,13 @@ Does the owner of the computer think this was intentional? If yes or no, justify
 - The owner of the computer does not believe that this is intentional. I also believe that this is not intentional as the developers of the software did not think of any other race when developing the software or algorithm. I think that this happened because the developers did not think about the diversity aspect of different races when developing the software. This was probably not intended to be harmful, however, should 100% be corrected. A better outcome could be produced if more developers were from different diverse races, so that all could come together to account for any possible outcomes. 
 
 [5.4 Crowdsourcing](https://drive.google.com/file/d/1kgvjhR_EMEe3h5A5aa1idbKRXEEzTj7N/view?usp=sharing)
+
 - Crowdsourcing is basically using a large population to market a certain idea or product. These things could be used in collaboration with others as well, examples being spotify. GoFundMe is also an example of crowd sourcing as it is a way to get money by collaborating with others. 
 
 5.4 Github Pages and Actions: 
 
 CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment? What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?
+
 - A crowdsource idea I coulse use in CompSci with 150 principles students would be trying to get everyone to like the sport of basketball. I might initiate it in our environment by presenting all positive things, especially revenue and entertaning dunks, and other highlights that are appealing to people. In terms of Del Norte crowdsourcing, it might be a little bit harder. Because there are specific biases all around Del Norte, it would be a lot more difficult to convince people that basketball is a great sport. Our final project could easily be better with crowdsourcing, as more people would support our project, therefore gaining more traction and being more popular.
 
 
