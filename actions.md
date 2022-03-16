@@ -2,26 +2,6 @@
 
 ### Github Actions TPT
 -----------------
-5.1:
-Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
-- Beneficial: Ability to access more resources, interact with new people, learn new information. 
-- Harmful: Ability to get addicted, have more dopamine issues, bad people can show up on the internet (think dark web)
-
-Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
-- There are real dopamine issues that people have. This isn't just some conspiracy theory; many people are heavily addicted to computing, specifically video games. 
-
-5.2:
-How does someone empower themself in a digital world?
-- Someone can empower themself in a digital world because they can get ranks or higher positions for being better in video games, while their real life crumbles before their eyes. 
-
-
-How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.
-- Someone that is empowered can help someone that is not empowered by helping them get access to technological resources. Something in Del Norte would be giving a computer to someone else in order to help them submit their assignment. 
-
-
-Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
-- Yes. Red tape could be exhibited in the example of the school blocking various websites, specifically in Del Norte. Elsewhere, paper can be used for tests, rather than computers possibly because of a lack of technological access, contributing further to the digital divide. 
-
 5.3:
 Watch the video... [HP computers are racist](https://www.youtube.com/watch?v=t4DT3tQqgRM)
 Come up with some thoughts on the video and be ready to discuss them as I call on you. Here are some ideas...
