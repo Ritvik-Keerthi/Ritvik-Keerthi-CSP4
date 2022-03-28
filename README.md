@@ -3,7 +3,16 @@
 # Ritvik-Keerthi-CSP4
 [Team Siuuuuu Github Page Website](https://koolkidkai.github.io/Siuuuu/)
 
-# Review Tickets
+# TimeBox including Review Tickets
+
+# Time Box
+
+Week Number/Title | Review Ticket | Theme |
+----- | ----- | ----- |
+Week 0 | [Week 0 Review Ticket](https://github.com/Ritvik-Keerthi/Ritvik-Keerthi-CSP4/issues/1) | Plans, Teams, and Jobs |
+Week 1 | [Week 1 Review Ticket](https://github.com/Ritvik-Keerthi/Ritvik-Keerthi-CSP4/issues/2) | Lists and Loops |
+Week 2 | [Week 2 Review Ticket](https://github.com/Ritvik-Keerthi/Ritvik-Keerthi-CSP4/issues/1) | Classy Solutions |
+
 [Week 0 Review Ticket](https://github.com/Ritvik-Keerthi/Ritvik-Keerthi-CSP4/issues/1)
 
 [Week 1 Review Ticket](https://github.com/Ritvik-Keerthi/Ritvik-Keerthi-CSP4/issues/2)
