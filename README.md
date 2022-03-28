@@ -8,6 +8,7 @@
 
 [Week 1 Review Ticket](https://github.com/Ritvik-Keerthi/Ritvik-Keerthi-CSP4/issues/2)
 
+[Week 2 Review Ticket](https://github.com/Ritvik-Keerthi/Ritvik-Keerthi-CSP4/issues/4)
 
 Capture the Moment
 
