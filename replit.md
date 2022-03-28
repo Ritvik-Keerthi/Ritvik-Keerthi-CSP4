@@ -3,6 +3,9 @@
 Menu and Sub Menu
 
 <iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@RitvikKeerthi/MenuSubMenu?embed=true"></iframe>
+Math function:
+![image](https://user-images.githubusercontent.com/89219486/160471622-0ac1d65f-172d-4f1a-8299-5ee38d98fa59.png)
+
 
 InfoDB Lists:
 
