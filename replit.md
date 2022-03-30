@@ -6,6 +6,8 @@ Menu and Sub Menu
 
 
 ----------------------------------------------
+
+----------------------------------------------------
 ### Key Learnings from 5.1-5.2 Tech Talks
 -----------------------------------------------
 ### Tree:
@@ -18,12 +20,18 @@ Menu and Sub Menu
 
 
 ### Matrix:
+![image](https://user-images.githubusercontent.com/89219486/160916307-b0eba1e8-2ff4-4777-962d-9ecdfb622f3a.png)
+![image](https://user-images.githubusercontent.com/89219486/160916348-22008627-d741-4a55-b47a-aa5479d387cf.png)
 
 
 
 ### Swap:
+![image](https://user-images.githubusercontent.com/89219486/160916202-0b355e41-50a3-41f4-9d5d-214563f30d89.png)
+
 
 ------------------------------------------------
+
+----------------------------------------------------
 ### Key Learnings from 5.3-5.4 Tech Talks
 -----------------------------------------------
 
@@ -41,6 +49,8 @@ Menu and Sub Menu
 
 ### Fibonacci:
 ![image](https://user-images.githubusercontent.com/89219486/159356466-d80067da-30bb-44d0-aeae-ee28da9c1cdd.png)
+----------------------------------------------------
+
 ----------------------------------------------------
 ### Key Learnings from 5.5-5.6 Tech Talks
 -----------------------------------------------------
