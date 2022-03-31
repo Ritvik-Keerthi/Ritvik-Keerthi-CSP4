@@ -2,6 +2,7 @@
 # 2. function references will be executed directly file.function()
 # imports from other .py files
 # Main Menu
+from week0 import swap
 from week0 import ship
 from week1 import infodbloops
 from week2 import fungame
@@ -16,7 +17,8 @@ main_menu = [
 sub_menu0 = [
     ["Serial Num", "week0/serialnum.py"],
     ["Tree", "week0/tree.py"],
-    ["Ship", ship.shippy]
+    ["Ship", ship.shippy],
+    ["Swap", swap.swapTester],
 ]
 
 sub_menu1 = [
