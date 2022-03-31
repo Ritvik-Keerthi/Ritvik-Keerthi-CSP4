@@ -3,6 +3,7 @@
 # imports from other .py files
 # Main Menu
 from week0 import swap
+from week0 import matrix
 from week0 import ship
 from week1 import infodbloops
 from week2 import fungame
@@ -19,6 +20,7 @@ sub_menu0 = [
     ["Tree", "week0/tree.py"],
     ["Ship", ship.shippy],
     ["Swap", swap.swapTester],
+    ["Matrix", matrix.matrixTester2],
 ]
 
 sub_menu1 = [
