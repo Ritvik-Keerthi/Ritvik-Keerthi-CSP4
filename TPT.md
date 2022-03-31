@@ -34,6 +34,8 @@ CompSci has 150 principles students. Describe a crowdsource idea and how you mig
    - Creative Commons
    - Open source 
    - Open Access
+ 
+ -Github Actions: The license they used in their project is an MIT license, this license enables others to freely use their code for their own usages. Outside users can make copies of the code as long as they also have an MIT license on their copy.
 
 [5.6 Safe Computing](https://drive.google.com/file/d/1JIxOvsWfI9YyXgqx6PQwXC6Xsw5T-pPP/view?usp=sharing)
 
@@ -42,6 +44,7 @@ CompSci has 150 principles students. Describe a crowdsource idea and how you mig
 - Keylogger logs your keystrokes on your keyboard which is usually used to get a password. 
 - Phishing: usually sent in emails, click on a link, and you're likely going to lose access of your computer.
 
+-Github Actions: PII that I've seen personally, is that my group includes our names, contact infor, and the school we attend currently. Personally I do not feel I am exposed on the internet, I don't have much to any PII on the internet, especially harmful PII. A good password would contain special characters, various capitilization, and would be fairly long. On the other hand, a bad password would be short, simple, and easy for others to guess. Another step thats  used to assist in authentication would be two-factor authentication.  Symmetic encryption uses a single key(private), while asymmetric encryption uses 2 keys for cryptology. When we deploy private information, from the user and machine are encoded. Personally, I've never fallen for a phishing attempt, however I've seen many like emails from people pretending to be well known companies in order to get personal information frome me.
 
 ------------------------------------------------------------------------------------------
 [5.1 Beneficial and Harmful Effects](https://drive.google.com/file/d/1RXc68oLrmCTquHnKL4IQV9qIqkvJQb4L/view?usp=sharing)
