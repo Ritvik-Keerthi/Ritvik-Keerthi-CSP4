@@ -11,7 +11,9 @@ Week Number/Title | Review Ticket | Theme |
 ----- | ----- | ----- |
 Week 0 | [Week 0 Review Ticket](https://github.com/Ritvik-Keerthi/Ritvik-Keerthi-CSP4/issues/1) | Plans, Teams, and Jobs |
 Week 1 | [Week 1 Review Ticket](https://github.com/Ritvik-Keerthi/Ritvik-Keerthi-CSP4/issues/2) | Lists and Loops |
-Week 2 | [Week 2 Review Ticket](https://github.com/Ritvik-Keerthi/Ritvik-Keerthi-CSP4/issues/1) | Classy Solutions |
+Week 2 | [Week 2 Review Ticket](https://github.com/Ritvik-Keerthi/Ritvik-Keerthi-CSP4/issues/4) | Classy Solutions |
+Week 3 | [Week 3 Review Ticket](https://github.com/Ritvik-Keerthi/Ritvik-Keerthi-CSP4/issues/5) | Algorithmic Final |
+Week 4 | [Week 4 Review Ticket](https://github.com/Ritvik-Keerthi/Ritvik-Keerthi-CSP4/issues/6) | Accounts and Logins |
 
 [Week 0 Review Ticket](https://github.com/Ritvik-Keerthi/Ritvik-Keerthi-CSP4/issues/1)
 
