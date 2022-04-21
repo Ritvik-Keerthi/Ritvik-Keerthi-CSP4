@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 # Study Plan:
 Monday --> Begin Finalizing Create Task, Go through CollegeBoard videos Unit 1 and Unit 2
 
