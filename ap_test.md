@@ -12,6 +12,7 @@ Quiz 1 Corrections
 
 Question 20:
 ![image](https://user-images.githubusercontent.com/89219486/164309007-1c1ffc76-aeab-44a5-b3f6-c43e9d7a8218.png)
+
 Correct Answer: A. This is the correct answer as it firstly combines the two lists, then sorts them so that they are in alphabetical order, then removes the duplicates finally to meet the requirements. The other answers do not do this properly. 
 
 Question 21: Which of the following best describes the relationship between the World Wide Web and the Internet?
