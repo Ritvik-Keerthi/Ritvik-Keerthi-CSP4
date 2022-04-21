@@ -1,9 +1,14 @@
 # Study Plan:
 Monday --> Begin Finalizing Create Task, Go through CollegeBoard videos Unit 1 and Unit 2
+
 Tuesday --> Take Quiz 1 for whole period; at home finish up Create Task, Go through CollegeBoard videos Unit 3 and Unit 4
+
 Wednesday --> Create Review Ticket, Do Quiz 1 Corrections, Go through CollegeBoard videos Unit 5
+
 Thursday --> Take Quiz 2 for whole period
+
 Friday --> Do Quiz 2 Corrections, Completely Finalize Create Task and be ready to submit on CollegeBoard
+
 Weekend --> Finalize Create Task and Submit over Weekend
 
 -------------------------------------------
