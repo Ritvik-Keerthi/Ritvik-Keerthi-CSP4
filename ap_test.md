@@ -1,5 +1,8 @@
 {% include navigation.html %}
 
+[Review Ticket](https://github.com/Ritvik-Keerthi/Ritvik-Keerthi-CSP4/issues/7)
+
+
 # Study Plan:
 Monday --> Begin Finalizing Create Task, Go through CollegeBoard videos Unit 1 and Unit 2
 
