@@ -2,6 +2,58 @@
 
 [Review Ticket](https://github.com/Ritvik-Keerthi/Ritvik-Keerthi-CSP4/issues/7)
 
+# TOTAL SCORE:  /4.5
+Graded By: 
+
+Extra Credit for Acting/Skit/Improv (ASI): 0 to +2 in Seed, Everyone must participate, -1 for not participating.  Teacher interested in evaluation by crossover on how the student did in this activity (0, .5, .75, 1) as team, (-1, .5, .75, 1) as individual. This should be in relation to other ASIs.  Donuts to winning Team.
+ 
+--------------------------------------------------------
+MCQ live result > 50%, (1 or 0) 
+- Score was 44/50, or 88%.
+- 
+![image](https://user-images.githubusercontent.com/89219486/165604693-470e7910-5c0f-4b7b-b185-5381cd5a65ba.png)
+
+---------------------------------------------------------
+Github Pages Link: [Link]()
+----------------------------------------------------------
+
+Study Plan
+Monday --> Finalize Create Task further
+Tuesday --> Take Quiz 3 MCQ
+Wednesday --> Do Quiz 3 MCQ Corrections, Finalize review ticket
+Thursday --> Finalize review ticket
+Friday --> Submit Create Task after Crossover Review
+-----------------------------------------------------------------------
+
+-------------------------------------------------------------------------
+Create Task and Create Task Crossover Review comments (completed by Thu)
+
+Reviewed By: Dylan Luo
+
+Comments: 
+
+------------------------------------------------------
+Quiz3 MCQ results and test corrections
+![image](https://user-images.githubusercontent.com/89219486/165604712-b850b152-316a-46fd-b166-28a4b1de57ac.png)
+
+
+Quiz 3 Corrections
+
+Question 6: Which of the following algorithms display all integers between 1 and 20, inclusive, that are not divisible by 3 ?
+Correct Answer: A and D. C is not correct because it does not display all integers between 1 and 20 that are not divisible by 3. 
+
+Question 7: Which of the following best describes the value returned by the procedure?
+Correct Answer: D.
+
+Question 12: Which of the following best describes the impact of Creative Commons?
+Correct Answer: Creative Commons gives creators of digital content the ability to indicate how their works can be legally used and distributed, enabling broad access to digital information.
+
+Question 34: For which of the following situations would it be best to use a heuristic in order to find a solution that runs in a reasonable amount of time?
+Correct Answer: Finding the fastest route that visits every location among  n  locations, which requires  n!  possible routes be examined.
+
+Question 46: Which of the following is an example of symmetric encryption?
+Correct Answer: Finn and Gwen develop a system that maps each letter of the alphabet to a unique symbol using a secret key. Finn uses the key to write a message to Gwen where each letter is replaced with the corresponding symbol. Gwen uses the key to map each symbol back to the original letter.
+
 
 # Study Plan:
 Monday --> Begin Finalizing Create Task, Go through CollegeBoard videos Unit 1 and Unit 2
