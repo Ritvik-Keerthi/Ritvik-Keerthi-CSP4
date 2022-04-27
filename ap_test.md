@@ -2,9 +2,6 @@
 
 [Review Ticket](https://github.com/Ritvik-Keerthi/Ritvik-Keerthi-CSP4/issues/7)
 
-# TOTAL SCORE:  /4.5
-Graded By: 
-
 Extra Credit for Acting/Skit/Improv (ASI): 0 to +2 in Seed, Everyone must participate, -1 for not participating.  Teacher interested in evaluation by crossover on how the student did in this activity (0, .5, .75, 1) as team, (-1, .5, .75, 1) as individual. This should be in relation to other ASIs.  Donuts to winning Team.
  
 --------------------------------------------------------
